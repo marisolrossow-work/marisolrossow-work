@@ -64,7 +64,8 @@ I am a web developer and designer with a Higher Technician degree in Web Design 
   <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
 </a>
 
-<h2>Github stats:</h2> 
+
+<h2 style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=marisolrossow-work&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/marisolrossow-work)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=marisolrossow-work&theme=material-palenight)](https://github.com/marisolrossow-work)
