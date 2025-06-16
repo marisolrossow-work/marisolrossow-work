@@ -57,9 +57,9 @@ I am a web developer and designer with a Higher Technician degree in Web Design 
 
 ## Check out my Social Media
 
-<a href="https://www.instagram.com/rw.webdesign/">
+<a href="https://www.instagram.com/rw.webdesign/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.behance.net/marisolrossow">
+<a href="https://www.behance.net/marisolrossow" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
 </a>
